@@ -3,7 +3,9 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/1_GettingStarted/hello_cargo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2_GuessingGame/guessing_game/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/1_GettingStarted/hello_cargo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/2_GuessingGame/guessing_game/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
